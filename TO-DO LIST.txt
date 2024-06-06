@@ -1,0 +1,17 @@
+Explanation of the Code:
+Task Struct:
+
+Holds the task description and its completion status.
+ToDoList Class:
+
+addTask: Adds a new task to the list.
+viewTasks: Displays all tasks with their status.
+markTaskAsCompleted: Marks a task as completed based on its index.
+removeTask: Removes a task from the list based on its index.
+displayMenu Function:
+
+Displays the menu options to the user.
+main Function:
+
+Handles user input and calls the appropriate methods of the ToDoList class based on the user's choice.
+Compile and run the program. Users can add, view, mark as completed, and remove tasks using the console menu.
